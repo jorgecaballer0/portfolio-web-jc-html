@@ -1,5 +1,8 @@
 # 🖥️ Responsive Portfolio Website - Jorge Caballero 
 
+## 📚 Demo
+![preview img](/preview.png)
+
 ## 📚 Description
 - Responsive Portfolio Website using HTML, CSS & JavaScript.
 - Developed first with the Mobile First methodology, then for desktop.
@@ -8,15 +11,12 @@
 - Smooth scrolling in each section.
 
 
-### 📚 Technologies
+## 📚 Technologies
 - Google Fonts - Fonts library for the website.
 - Boxicons - Icons library.
 - AOS Js - Animation library.
 - Swiper Js - Slider library.
 - Mixitup Js - Filter library.
 
-### License
-- Copyright (c) 2020 - Jorge Caballero.
-
-![preview img](/preview.png)
-
+### 🖥️ License
+>Open source license :)

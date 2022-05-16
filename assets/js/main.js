@@ -33,6 +33,7 @@ modalClose.forEach((mc) => {
         })
     })
 })
+
 /*=============== MIXITUP FILTER PORTFOLIO ===============*/
 
 let mixerPortfolio = mixitup('.work__container', {
@@ -77,6 +78,7 @@ let swiperTestimonial = new Swiper('.testimonial__container', {
 })
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
+
 const sections = document.querySelectorAll('section[id]')
 
 function scrollActive() {
@@ -97,6 +99,7 @@ function scrollActive() {
 window.addEventListener('scroll', scrollActive)
 
 /*=============== LIGHT DARK THEME ===============*/
+
 const themeButton = document.getElementById('theme-button')
 const lightTheme = 'light-theme'
 const iconTheme = 'bx-sun'
