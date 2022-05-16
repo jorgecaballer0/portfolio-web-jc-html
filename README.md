@@ -1,22 +1,25 @@
-# 🖥️ Responsive Portfolio Website - Jorge Caballero 
+# 🖥️ Portafolio Web 🖥️
 
-## 📚 Demo
+## 📚 Preview
 ![preview img](/preview.png)
 
-## 📚 Description
-- Responsive Portfolio Website using HTML, CSS & JavaScript.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-- Includes a dark and light mode.
-- Smooth scrolling in each section.
+## 📚 Descripción del proyecto
+- Portafolio web ***responsive design*** utilizando HTML, CSS y JavaScript.
+- Desarrollado principalmente con la metodología ***Mobile First***, luego adaptado para escritorio.
+- Diseñado con una interfaz de usuario ***agradable y funcional***.
+- Incluye un modo oscuro y claro.
+- Desplazamiento suave en cada sección.
 
 
-## 📚 Technologies
-- Google Fonts - Fonts library for the website.
-- Boxicons - Icons library.
-- AOS Js - Animation library.
-- Swiper Js - Slider library.
-- Mixitup Js - Filter library.
+## 📚 Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Google Fonts - Libreria de fuentes de Google.
+- Boxicons - Libreria de iconos.
+- AOS Js - Libreria de animaciones.
+- Swiper Js - Libreria de animaciones - slider. 
+- Mixitup Js - Libreria de filtros.
 
-### 🖥️ License
->Open source license :)
+### 🖥️ Licencia
+>Licencia de código abierto :)
